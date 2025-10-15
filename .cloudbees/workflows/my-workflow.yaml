@@ -10,4 +10,4 @@ jobs:
         with:
           labels: Vuln4ghtest
           artifact-id: c96cf1cd-ec8c-4531-8878-a8f6bb04cfb4
-          target-environment: QA
+          target-environment: QA 

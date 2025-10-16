@@ -9,5 +9,5 @@ jobs:
       - uses: cloudbees-io/register-deployed-artifact@v2
         with:
           labels: Vuln4ghtest
-          artifact-id: c96cf1cd-ec8c-4531-8878-a8f6bb04cfb4
+          artifact-id: f9de4546-4bb2-4ad5-9118-44cf0617aebc
           target-environment: QA 
